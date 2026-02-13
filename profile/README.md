@@ -103,7 +103,7 @@ To have an entry on this page, the profile needs to be
 ### F-4E Phantom II
 | Profile | Platform | Comments |
 |-------------------------------------------------------------------|:-----:|---------------------------------------------------------------|
-|[Nonobeardunord's F4-E Profile](https://drive.google.com/file/d/1DhND0EdMEA59xoc__KtyRWwtcRzitHmq/view?usp=drive_link)|DCS|Pilot seat only profile. RIO profile coming soon!|
+|[Nonobeardunord's F4-E Profile](https://drive.google.com/drive/folders/18gI3yDcZ9bRdELKQIKr7GHcoizUFWoDd?usp=sharing)|DCS|Pilot seat only profile. RIO profile coming soon!|
 
 ### F-4U Corsair
 | Profile | Platform | Comments |
@@ -160,18 +160,18 @@ To have an entry on this page, the profile needs to be
 ### Mig-29
 | Profile | Platform | Comments |
 |-------------------------------------------------------------------|:-----:|-------------------------------------------------------------|
-|[Nonobeardunord's Mig-29 Profiile](https://drive.google.com/file/d/15N8QepZ_ruSM2Vt3otmWWdyFdUoB3KDA/view?usp=sharing)|DCS|
+|[Nonobeardunord's Mig-29 Profiile](https://drive.google.com/drive/folders/132T6iwv5rrsCrX1zC5ZM00_2Ze4cFH3A?usp=sharing)|DCS|
 
 ### Mirage 2000C (M-2000C)
 | Profile | Platform | Comments |
 |-------------------------------------------------------------------|:-----:|-------------------------------------------------------------|
 | ![Soyouz2000's Avator](https://avatars.githubusercontent.com/u/146282794?s=32&v=4)[Soyouz2000's M-2000C Profile](https://mega.nz/file/RJUCETaD#dTLxDJMxLiciO-u4Krh25w4HAR84BYH8gSHDaB1aK18)|DCS| |
-| [NoNoBear's M-2000C Profile](https://cdn.discordapp.com/attachments/702224236030197760/1161554325735227422/M-2000C_BCA_Profile_1.0.10.hpf?ex=65546843&is=6541f343&hm=3a7dc47166ad66881557aa0f5e9c9e7789b101e984f96af88b28d4c22131a17d&)|DCS| |
+| [NoNoBear's M-2000C Profile](https://drive.google.com/drive/folders/12lmkcaZWT48h2a_p3J4jCV0feQcgaJMD?usp=sharing)|DCS| |
 
 ### Mirage F-1
 | Profile | Platform | Comments |
 |-------------------------------------------------------------------|:-----:|-------------------------------------------------------------|
-|[Nonobeardunord's Mirage F1-EE Profiile](https://drive.google.com/file/d/17zJcZh3JfzB88KSQF3lIiGDjjW2EWfIV/view?usp=sharing)|DCS|
+|[Nonobeardunord's Mirage F1-EE Profiile](https://drive.google.com/drive/folders/1kNZpRgTNasYOaQVsRVoA-TJFIgMS5muc?usp=sharing)|DCS|
 
 ### MMB-339
 | Profile | Platform | Comments |

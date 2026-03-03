@@ -98,7 +98,7 @@ To have an entry on this page, the profile needs to be
 | Profile | Platform | Comments |
 |-------------------------------------------------------------------|:-----:|-------------------------------------------------------------|
 |[![CZ Avatar](https://github.com/HeliosProfiles/Profiles/assets/18526232/9578fba4-952e-48cd-bfb8-9b699d5e7f4a)](http://www.captzeen.com/helios/index.asp) [Capt Zeen's F/A-18C Profile](https://mega.nz/file/E9F0kB7J#ujSA9nUNDx88xVbx63c7-6jq3dKHzLkmuwqbsBseV6o)|DCS|[About](http://www.captzeen.com/helios/F18.asp) |
-|[Silvergab's Day/Night json conversion for CZ's profile](https://www.dropbox.com/scl/fi/js6o1o6ztxcmi54ur8m5p/3.1.1b.zip?rlkey=wkeox5rf26e7y69xfuw4r9ih9&dl=0)|DCS| |
+|[Silvergab's Day/Night json conversion for CZ's profile](https://www.dropbox.com/scl/fi/nu1js3y9i1siwt7a2b961/fa18c_profile.zip?rlkey=p0equkhqpy0qhqnwhda4gtbgn&e=1&st=fz6knuos&dl=0)|DCS| |
 
 ### F-4E Phantom II
 | Profile | Platform | Comments |

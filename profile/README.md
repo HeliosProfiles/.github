@@ -94,6 +94,7 @@ To have an entry on this page, the profile needs to be
 |[Ice's Helios Profile - Original](https://ihpff4bms.blogspot.com/2017/09/v421s-release.html)|BMS|[About](https://ihpff4bms.blogspot.com/2017/09/v421s-release.html) Original out of date profile for F-16 Falcon in BMS from Ice|
 |[![CZ Avatar](https://github.com/HeliosProfiles/Profiles/assets/18526232/9578fba4-952e-48cd-bfb8-9b699d5e7f4a)](http://www.captzeen.com/helios/index.asp) [Capt Zeen's F-16C profile](https://mega.nz/file/E9NDQayS#xF_juB1ykhClU-CLIPZ_Ws8HHa-ay1nIEY4Wh2eqQ-k)|DCS|[About](http://www.captzeen.com/helios/F16C.asp) |
 |[Silvergab's CZ Profile Conversion for BMS](https://www.dropbox.com/scl/fi/o2b785qc6c1abkmm8a6dn/BMS.ZIP?rlkey=pffw9km7wqn51ul76ohel1c4j&e=1&st=uo9wjwbv&dl=0)|BMS|CaptZeens F-16 profile conversion for use with BMS|
+|[Silvergab's CZ Day/Night Profile for DCS](https://www.dropbox.com/scl/fi/g23h6y5jbuqkj3uo5qnxb/1.5.zip?rlkey=er6b7wyyt8lz99hs0d5chrwlu&e=2&st=zbdrw5vi&dl=0)|DCS|CaptZeens F-16 Day/Night profile  for use with DCS|
 ### F/A-18C Hornet
 | Profile | Platform | Comments |
 |-------------------------------------------------------------------|:-----:|-------------------------------------------------------------|

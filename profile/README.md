@@ -44,6 +44,10 @@ To have an entry on this page, the profile needs to be
 |![BlueFin's Avatar](https://avatars.githubusercontent.com/u/18526232?s=32&v=4) [BlueFin's Apache Profile](https://github.com/HeliosProfiles/DCS-AH-64D-Profile-By-BlueFinBima/releases/latest) | DCS | [About](https://github.com/HeliosProfiles/DCS-AH-64D-Profile-By-BlueFinBima#dcs-ah-64d-profile-by-bluefinbima) ![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/HeliosProfiles/DCS-AH-64D-Profile-By-BlueFinBima/latest/total?style=plastic&label=Latest%20Release%20D%2FL&labelColor=20cd20)| |
 |![AceFlight's Avatar](https://cdn.discordapp.com/avatars/363230411125555210/ba72bf3934c18d9e3ddd81178c25929f.webp?size=32) [Ace Flight's Apache Profile](https://files.digitalcombatsimulator.com/userfiles/88a/rwxhq7v1rsm5sk4zwpg2dhyt0w7a4cbs/AH64.zip) | DCS | [About](https://www.digitalcombatsimulator.com/en/files/3335588/) | |
 
+### AH-6J / MH-6J Little Bird Community Mod
+| Profile | Platform | Comments |
+|-------------------------------------------------------------------|:-----:|---------------------------------------------------------------|
+| ![MadKreator37's Avatar](https://avatars.githubusercontent.com/u/110797278?s=32&v=4)[MadKreator's C-130J Profile](https://github.com/HeliosProfiles/DCS-AH-6J-Profile-by-MadKreator37/releases/latest)|DCS| [About](https://github.com/HeliosProfiles/DCS-AH-6J-Profile-by-MadKreator37#helios-profile-for-ah-6j-community-mod-by-madkreator37) ![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/HeliosProfiles/DCS-AH-6J-Profile-by-MadKreator37/latest/total?style=plastic&label=Latest%20Release%20D%2FL&labelColor=20cd20)|
 
 ### AJS-37 Viggen
 | Profile | Platform | Comments |

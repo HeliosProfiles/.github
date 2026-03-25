@@ -47,7 +47,7 @@ To have an entry on this page, the profile needs to be
 ### AH-6J / MH-6J Little Bird Community Mod
 | Profile | Platform | Comments |
 |-------------------------------------------------------------------|:-----:|---------------------------------------------------------------|
-| ![MadKreator37's Avatar](https://avatars.githubusercontent.com/u/110797278?s=32&v=4)[MadKreator's C-130J Profile](https://github.com/HeliosProfiles/DCS-AH-6J-Profile-by-MadKreator37/releases/latest)|DCS| [About](https://github.com/HeliosProfiles/DCS-AH-6J-Profile-by-MadKreator37#helios-profile-for-ah-6j-community-mod-by-madkreator37) ![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/HeliosProfiles/DCS-AH-6J-Profile-by-MadKreator37/latest/total?style=plastic&label=Latest%20Release%20D%2FL&labelColor=20cd20)|
+| ![MadKreator37's Avatar](https://avatars.githubusercontent.com/u/110797278?s=32&v=4)[MadKreator's AH/MH-6J Little Bird Profile](https://github.com/HeliosProfiles/DCS-AH-6J-Profile-by-MadKreator37/releases/latest)|DCS| [About](https://github.com/HeliosProfiles/DCS-AH-6J-Profile-by-MadKreator37#helios-profile-for-ah-6j-community-mod-by-madkreator37) ![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/HeliosProfiles/DCS-AH-6J-Profile-by-MadKreator37/latest/total?style=plastic&label=Latest%20Release%20D%2FL&labelColor=20cd20)|
 
 ### AJS-37 Viggen
 | Profile | Platform | Comments |

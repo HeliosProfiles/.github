@@ -25,12 +25,12 @@ To have an entry on this page, the profile needs to be
 ### A-4E Skyhawk
 | Profile | Platform | Comments |
 |-------------------------------------------------------------------|:-----:|---------------------------------------------------------------|
-|[![Soyouz2000's Avator](https://avatars.githubusercontent.com/u/146282794?s=32&v=4)](http://www.captzeen.com/helios/index.asp)[Soyouz2000's A-4E Skyhawk Profile](https://mega.nz/file/REtUjRQa#1xtRuT27Nwbtg1O8yp9nuhlmm5AJZLTYFX7raO7ovzg)|DCS|[About](http://www.captzeen.com/helios/a4.asp) |
+|[![Soyouz2000's Avatar](https://avatars.githubusercontent.com/u/146282794?s=32&v=4)](http://www.captzeen.com/helios/index.asp)[Soyouz2000's A-4E Skyhawk Profile](https://mega.nz/file/REtUjRQa#1xtRuT27Nwbtg1O8yp9nuhlmm5AJZLTYFX7raO7ovzg)|DCS|[About](http://www.captzeen.com/helios/a4.asp) |
 
 ### A-29 Tucano
 | Profile | Platform | Comments |
 |-------------------------------------------------------------------|:-----:|---------------------------------------------------------------|
-|[![Soyouz2000's Avator](https://avatars.githubusercontent.com/u/146282794?s=32&v=4)](http://www.captzeen.com/helios/index.asp)[Soyouz2000's A-29 Tucano Profile](https://mega.nz/file/dFdzzJoD#AfL7U_XaEVozSYPgrc7JSFnZ-VldaD2p-xN-t0FHZQU)|DCS| |
+|[![Soyouz2000's Avatar](https://avatars.githubusercontent.com/u/146282794?s=32&v=4)](http://www.captzeen.com/helios/index.asp)[Soyouz2000's A-29 Tucano Profile](https://mega.nz/file/dFdzzJoD#AfL7U_XaEVozSYPgrc7JSFnZ-VldaD2p-xN-t0FHZQU)|DCS| |
 
 ### A-10C Warthog
 | Profile | Platform | Comments |
@@ -80,6 +80,7 @@ To have an entry on this page, the profile needs to be
 | Profile | Platform | Comments |
 |-------------------------------------------------------------------|:-----:|---------------------------------------------------------------|
 |[![CZ Avatar](https://github.com/HeliosProfiles/Profiles/assets/18526232/9578fba4-952e-48cd-bfb8-9b699d5e7f4a)](http://www.captzeen.com/helios/index.asp)[Capt Zeen's F-14 profile](https://mega.nz/file/ol0g0S4B#hkSWa0Pi0P1TAK2TktfkDMsEhzUYNqwadrk6YaKxtEc)|DCS|[About](http://www.captzeen.com/helios/F-14.asp)|
+|[![Soyouz2000's Avatar](https://avatars.githubusercontent.com/u/146282794?s=32&v=4)](http://www.captzeen.com/helios/index.asp)[Soyouz2000's F-14 Day/Night Profile](https://mega.nz/file/RQ93kLBB#I4UnhutVmaoxP9gjB9mDI_bhv9E64vN2lYFg_AZttwc)|DCS|
 
 ### F-15C Eagle
 | Profile | Platform | Comments |

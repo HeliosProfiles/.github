@@ -121,6 +121,12 @@ To have an entry on this page, the profile needs to be
 |-------------------------------------------------------------------|:-----:|---------------------------------------------------------------|
 | ![MadKreator37's Avatar](https://avatars.githubusercontent.com/u/110797278?s=32&v=4)[MadKreator's F-5E Profile](https://github.com/HeliosProfiles/DCS-F-5E-Profile-by-MadKreator37/releases/latest)|DCS| [About](https://github.com/HeliosProfiles/DCS-F-5E-Profile-by-MadKreator37/blob/main/README.md) ![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/HeliosProfiles/DCS-F-5E-Profile-by-MadKreator37/latest/total?style=plastic&label=Latest%20Release%20D%2FL&labelColor=20cd20)|
 
+### F-86F
+| Profile | Platform | Comments |
+|-------------------------------------------------------------------|:-----:|-------------------------------------------------------------|
+|[Nonobeardunord's F-86F Profiile](https://drive.google.com/drive/folders/1ZBxUgWlrgGHTDW3qmHO5FUC4I24mi7-Q?usp=sharing)|DCS|
+
+
 ### FW-190 A8
 | Profile | Platform | Comments |
 |-------------------------------------------------------------------|:-----:|---------------------------------------------------------------|

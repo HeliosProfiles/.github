@@ -158,6 +158,11 @@ To have an entry on this page, the profile needs to be
 |-------------------------------------------------------------------|:-----:|---------------------------------------------------------------|
 |![UsagiYon's Avatar](https://cdn.discordapp.com/avatars/812772372821442571/3f5dfe5e38d49b7c2294ee81dcd271b3.webp?size=32)[Usagi's Mi-24P Profile](https://www.dropbox.com/scl/fi/3nljl4s0pf27jwbspqds5/Usagi-Mi24P-Profile.zip?rlkey=j9f48ifn5z9vjaidammiung30&st=ylvw7bqk&dl=0)| DCS | |
 
+### Mig-15bis
+| Profile | Platform | Comments |
+|-------------------------------------------------------------------|:-----:|-------------------------------------------------------------|
+|[Nonobeardunord's Mig-15bis Profiile](https://drive.google.com/drive/folders/18-_qx1HgrNmagkmiyia_nMA2BKZwn-9V?usp=sharing)|DCS|
+
 ### MiG-21bis (Fishbed)
 | Profile | Platform | Comments |
 |-------------------------------------------------------------------|:-----:|-------------------------------------------------------------|
